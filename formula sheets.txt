@@ -1,0 +1,8 @@
+E_{(x,y)}^{d}(x',y') = \frac{A_{(x,y)}}{r_{(x,y),(x',y')}}\textit{e}^{-i\mathbf{kr}_{(x,y),(x',y')}+i\varphi _{(x,y)}}
+
+for Ed
+
+
+E_{(x',y')}^{i}=\sum_{(x,y)}E_{(x,y)}^{d}(x',y')[1+ cos(\Omega )] 
+
+for Ei
